@@ -54,7 +54,7 @@ export default function Home() {
             s
           )} rounded flex justify-center items-center text-black`}
         >
-          {port}
+          {s}
         </div>
       </Link>
     );
